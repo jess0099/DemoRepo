@@ -9,5 +9,12 @@ public class Logintest {
 		
 		System.out.println("test cases");
 	}
+	
+	@Test
+	
+	public void secondm() {
+		
+		System.out.println("seconed method");
+	}
 
 }
