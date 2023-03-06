@@ -3,7 +3,7 @@ public class revrserstring {
 
 	public static void main(String[] args) {
 	
-		
+		//this is string program
 		String str="amitbhati1000";
 		String b=" ";
 		
